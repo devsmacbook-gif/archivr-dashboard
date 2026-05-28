@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_BASE = "https://your-app.railway.app"; // ← replace after deploy
+const API_BASE = "https://empathetic-magic-production-323d.up.railway.app"; // ← replace after deploy
 
 const BRANDS = ["Stone Island","Prada","Nike","Oakley","Helmut Lang","Raf Simons","CP Company","Polo Sport","Undercover","Dolce Gabbana","Versace","Diesel","Moncler","Arc'teryx"];
 
